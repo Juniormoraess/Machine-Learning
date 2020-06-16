@@ -1,0 +1,6 @@
+Cerveja,Carvao,Pao
+Carvao,Pao
+Cerveja,Carvao,Maionese
+Cerveja,Carvao,Pao,Maionese
+Cerveja
+Carvao
